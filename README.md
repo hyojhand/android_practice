@@ -1,2 +1,2 @@
-# android_test
+# android_practice
 Andorid_test repository
