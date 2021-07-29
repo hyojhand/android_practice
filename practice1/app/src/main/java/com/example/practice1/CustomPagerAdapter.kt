@@ -24,6 +24,7 @@ class CustomPagerAdapter: RecyclerView.Adapter<Holder>() {
     override fun getItemCount(): Int {
         //TODO("Not yet implemented")
         return textList.size
+
     }
 }
 
